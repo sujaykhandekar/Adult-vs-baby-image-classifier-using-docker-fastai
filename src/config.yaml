@@ -6,16 +6,14 @@ about:
   This is a Age group Images Classifier using Deep Learning built on top of Pytorch.
 
 
-  The project was build by [sujay khandekar](https://github.com/sujaykhandekar).
-
-
+  The project was build by sujay khandekar
   This app classifies images of people into baby or adult using Resnet34. It had validation accuracy of 97% when I tested it.
 
 
 
 
 
-code: https://github.com/sujaykhandekar/web_app
+code: https://github.com/sujaykhandekar/image_classifier_web_app
 
 sampleImages:
   - name: adult1
