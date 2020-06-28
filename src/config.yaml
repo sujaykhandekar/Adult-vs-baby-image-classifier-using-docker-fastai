@@ -1,0 +1,30 @@
+title: Age Group Classifier
+description: Classify images of people using deep learning
+about:
+
+
+  This is a Age group Images Classifier using Deep Learning built on top of Pytorch.
+
+
+  The project was build by [sujay khandekar](https://github.com/sujaykhandekar).
+
+
+  This app classifies images of people into baby or adult using Resnet34. It had validation accuracy of 97% when I tested it.
+
+
+
+
+
+code: https://github.com/sujaykhandekar/web_app
+
+sampleImages:
+  - name: adult1
+    url: https://images.techhive.com/images/article/2017/01/trump_smug-100701570-large.jpg
+  - name: baby1
+    url: https://images.pexels.com/photos/789786/pexels-photo-789786.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+  - name: adult2
+    url: https://drive.google.com/file/d/18c-81B7f_M_exNBOVrElt-gf25g_osti/view?usp=sharing
+  - name: baby2
+    url: https://i.ytimg.com/vi/Mk1zOLzWVGY/maxresdefault.jpg
+  - name:adult3
+    url: https://drive.google.com/file/d/1pXTmHZ492RuNDnyYcsMIzOn0NHeFooQz/view?usp=sharing
